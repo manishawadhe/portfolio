@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28e9d3d2.css",
+    "main.js": "/static/js/main.827060fa.js",
+    "static/media/tripoto.png": "/static/media/tripoto.563657abbd27ee3cb812.png",
+    "static/media/Gearbest.png": "/static/media/Gearbest.33c42320192b3a518e20.png",
+    "static/media/Lenskart.png": "/static/media/Lenskart.e0c79e675127866939ea.png",
+    "static/media/Quikr.png": "/static/media/Quikr.6eba6cefc7d979db8d27.png",
+    "static/media/Manisha_Wadhe_Resume.pdf": "/static/media/Manisha_Wadhe_Resume.a1bb623ecb8dab265eb9.pdf",
+    "static/media/reading-book.png": "/static/media/reading-book.eb1446bb57d43d7b72c2.png",
+    "static/media/profile.jpeg": "/static/media/profile.a73267fbaec2273a767d.jpeg",
+    "static/media/woman.png": "/static/media/woman.28056104da024a37f2ee.png",
+    "index.html": "/index.html",
+    "main.28e9d3d2.css.map": "/static/css/main.28e9d3d2.css.map",
+    "main.827060fa.js.map": "/static/js/main.827060fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e9d3d2.css",
+    "static/js/main.827060fa.js"
+  ]
+}
